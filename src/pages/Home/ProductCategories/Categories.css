@@ -1,0 +1,36 @@
+.cardsss {
+    margin: 40px;
+    position: relative;
+    width: 250px;
+    height: 350px;
+    box-shadow: 0 40px 60px -6px black;
+}
+
+.card-titles {
+    display: block;
+    text-align: center;
+    color: #fff;
+    background-color: #6184a8;
+    padding: 2%;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.cardsss img {
+    width: 100%;
+    height: 98%;
+    object-fit: cover;
+    display: block;
+    position: relative;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .cardsss {
+        margin: 20px;
+        position: relative;
+        width: 180px;
+        height: 100px;
+        box-shadow: 0 40px 60px -6px black;
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "category_id": "04",
+    "categoryName": " Microbus",
+    "image_url": "https://i.ibb.co/tbCvnWx/images-4.png",
+    "products": [
+        {
+            "productName": "BMW 5",
+            "originalPrice": "2000",
+            "resaleprice": "1500",
+            "use": "2 years",
+            "location": "Mirpur-1",
+            "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+        },
+        {
+            "productName": "BMW X1",
+            "originalPrice": "47.90 Lakh",
+            "resaleprice": "45.90 Lakh",
+            "use": "2 years",
+            "location": "Mirpur-1",
+            "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+        }
+    ]
+}

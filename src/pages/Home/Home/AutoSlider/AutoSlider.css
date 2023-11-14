@@ -1,0 +1,29 @@
+.card-container {
+     display: flex;
+     overflow-x: scroll;
+     animation: scrollAnimation 20s linear infinite;
+     /* Adjust the duration as needed */
+}
+
+.card {
+     flex: 0 0 auto;
+     width: 300px;
+     /* Adjust the card width as needed */
+     margin-right: 20px;
+     /* Adjust the spacing between cards as needed */
+     border: 1px solid #ddd;
+     padding: 20px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     text-align: center;
+}
+
+@keyframes scrollAnimation {
+     0% {
+          transform: translateX(0);
+     }
+
+     100% {
+          transform: translateX(-100%);
+          /* Adjust the percentage based on the number of cards */
+     }
+}
